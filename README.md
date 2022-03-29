@@ -2,6 +2,10 @@
 
 This is a simple example library that implements a circuit breaker in Python.
 
+The picture below shows the Circuit Breaker logic:
+
+![circuit breaker](images/state.png)
+
 ## Prerequisites
 
 - Python 3.6+
